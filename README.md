@@ -10,4 +10,4 @@
 
 ### Audio
 - [Federated Chaumian Mints on Lightning](https://www.youtube.com/watch?v=A_7-DsreUQg)
-- 
+- [Eric Sirion - MiniMint, Federated Mints for Bitcoin scaling and privacy](https://stephanlivera.com/episode/331/)
