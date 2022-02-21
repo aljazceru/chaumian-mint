@@ -1,4 +1,4 @@
-# chaumian-mint
+# Resources for exploring chaumian mints
 
 ### Reading
 - https://rodarmor.com/blog/lightning-mints/
