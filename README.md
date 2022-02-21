@@ -8,6 +8,7 @@
 - https://tftc.io/martys-bent/issue-1022/
 
 
-### Audio
+### Video/Audio
 - [Federated Chaumian Mints on Lightning](https://www.youtube.com/watch?v=A_7-DsreUQg)
 - [Eric Sirion - MiniMint, Federated Mints for Bitcoin scaling and privacy](https://stephanlivera.com/episode/331/)
+- [Improving Bitcoin Privacy with Federated E-Cash Mints - Eric Sirion](https://bitcointv.com/w/kHwmbLTWjsbaDTJpBewUmX)
